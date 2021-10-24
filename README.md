@@ -21,6 +21,9 @@ Open [http://localhost:7000/take-screenshot/%ENCODED_WEBSITE_URL%]
 
 Example: http://localhost:7000/take-screenshot/https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FJava_(programming_language)
 
+## Example Screenshot 
+https://github.com/hariharsudan-hhs/screenshot-api/blob/master/Screenshot.png
+
 ## Demo Project to check the API
 
 Use this project to check in local https://github.com/hariharsudan-hhs/screenshot-react-demo
